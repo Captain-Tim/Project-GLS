@@ -14,6 +14,16 @@ General Learning System — a personal knowledge repository for AI-assisted lear
 
 依主題的重要性調整深度，不要求每次都完整執行所有步驟。從實際使用中改善系統。
 
+### Spaced Repetition
+
+Consolidate 完成後，對值得長期保留的知識安排 Day 1、Day 7、Day 30 間隔複習，以文件完成日為 Day 0。
+
+- 每次約 5–10 分鐘，以 Active Recall 為主，不預先重讀文件。
+- AI 依已驗證的核心知識逐題提問，等待學習者回答後才驗證及繼續。
+- 僅在發現理解或記憶缺漏時回顧文件，不要求重新輸出整份知識。
+- 依實際複習結果調整後續間隔。1、7、30 天為目前的實驗性預設，而非強制規範。
+- 經學習者同意後，由 AI 設定複習提醒，附上對應知識文件的連結。
+
 ## Knowledge library
 
 - [Finance — Deep ITM Call as a Futures Alternative](docs/finance/deep-itm-call/index.html)
