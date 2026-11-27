@@ -27,6 +27,7 @@ Consolidate 完成後，對值得長期保留的知識安排 Day 1、Day 7、Day
 ## Knowledge library
 
 - [Finance — Deep ITM Call as a Futures Alternative](docs/finance/deep-itm-call/index.html)
+- [Software Engineering — Software Testing Fundamentals](docs/software-engineering/software-testing/index.html)
 - [Website source](docs/index.html)
 
 ## System
